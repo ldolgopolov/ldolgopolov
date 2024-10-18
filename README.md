@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ldolgopolov<br>- 👀 I’m interested in building applications for different tasks.<br>- 🌱 I’m currently learning Java Spring and React JS.
+- 👋 Hi, I’m @ldolgopolov
+- 👀 I’m interested in building applications for different tasks.
+- 🌱 I’m currently learning Java Spring and React JS.
 
 
 ## 🌐 Socials:
